@@ -1,0 +1,300 @@
+
+* {
+  box-sizing: border-box;
+}
+
+#task
+{
+	width: 100%;
+	overflow: auto;
+	margin: 0 auto;
+}
+
+
+
+#logo
+{
+	width: 231px;
+	height: 65px;
+	float: left;
+	margin: 10px;
+	padding-bottom: 20px;
+	display: inline-block;
+
+}
+#logo h1{
+
+	margin: 0;
+	padding: 0;
+	font-size: 54px;
+	font-style: Arial;
+	font-weight: 100;
+	
+	text-align: center;
+}
+
+#task_menu{
+	width: auto;
+	overflow: auto;
+	margin-top: 20px;
+}
+
+
+#menu li {
+
+	list-style: none;
+	float: left;
+	padding-bottom: 20px;
+
+}
+
+#menu li a
+{
+	padding: 10px;
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	font-size:30px;
+	font-style: Arial;
+	font-weight: 100;
+
+
+}
+
+#menu li a:hover 
+{
+	background: #A3E4D7;
+}
+#header_bottom{
+	width: auto;
+	overflow: auto;
+	display: inline-block;
+	margin-left: 50px;
+}
+ .div-one {
+
+ 	width: 600px;
+ 	height: 350px;
+ 	background: red;
+ 	margin-top: 20px;
+ 	display: inline-block;
+ }
+ .div-two
+ {
+ 	width: 600px;
+ 	height:350px;
+ 	background: #72246C;
+ 	display: inline-block;
+ 	margin-top: 20px;
+ }
+
+
+#content 
+{
+	width: auto;
+	overflow: auto;
+	margin-left: 50px;
+	display: inline-block;
+
+}
+
+
+
+.div-three
+{
+	width: 1500px;
+ 	height: 400px;
+ 	background: #72246C;
+ 	display: inline-block;
+ 	margin-top: 20px;
+}
+
+#content_center
+{
+	width: auto;
+	overflow: auto;
+	display: inline-block;
+
+}
+.div-four
+{
+	width: 700px;
+ 	height: 200px;
+ 	background: green;
+ 	display: inline-block;
+ 	margin-top: 20px;
+ 	margin-right: 5%;
+}
+.div-five
+{
+	width: 700px;
+ 	height: 200px;
+ 	background: #0E6251;
+ 	display: inline-block;
+ 	margin-top: 20px;
+
+}
+.div-six
+{
+	width: 1291px;
+ 	height: 200px;
+ 	background: #117864;
+ 	display: inline-block;
+ 	margin-top: 20px;
+}
+.div-seven
+{
+	width: 200px;
+ 	height: 200px;
+ 	background: #922B21;
+ 	display: inline-block;
+ 	margin-top: 20px;
+}
+#content_right
+{
+	width: auto;
+	overflow: auto;
+	float: right;
+	margin-right: 40px;
+
+}
+
+.div-eight
+{
+	width: 200px;
+ 	height: 200px;
+ 	background: #7B14F7;
+ 	display: block;
+ 	margin-top: 20px;
+}
+.div-nine
+{
+	width: 200px;
+ 	height: 200px;
+ 	background: #14F73A;
+ 	display: block;
+ 	margin-top: 20px;
+ 	
+
+}
+
+.div-ten
+{
+	width: 200px;
+ 	height: 200px;
+ 	background: #F73C14;
+ 	display: block;
+ 	margin-top: 20px;
+ 	
+}
+
+.div-eleven
+{
+	width: 200px;
+ 	height: 200px;
+ 	background: #1459F7;
+ 	display: block;
+ 	margin-top: 20px;
+ 	
+}
+
+
+
+/*#footer
+{
+	width: auto;
+	overflow: auto;
+}*/
+
+#footer-one
+{
+	width: 400px;
+ 	height: 200px;
+ 	background: #4C35BF;
+ 	display:inline-block;
+ 	
+}
+.one-two
+{
+	width:180px;
+	height: 40px;
+	background: white;
+	display: block;
+	margin-top: 5px;
+	margin-left: 3px;
+
+}
+.two-tree
+{
+	width: 150px;
+	height: 80px;
+	background: white;
+	display: block;
+	margin-top: 5px;
+	margin-left: 3px;
+}
+#footer-two
+{
+	width: 600px;
+ 	height: 200px;
+ 	background: #777196;
+ 	display:inline-block; 
+ 	margin-top: 20px;
+}
+
+.three-four
+{
+	width: 589px;
+	height: 80px;
+	background: #C2DD15;
+	display: block;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.four-five
+{
+	width: 200px;
+	height: 80px;
+	background: #9DDD15;
+	margin-top: 5px;
+	margin-left: 5px;
+	float: left;
+	
+}
+.five-six
+{
+	width: 200px;
+	height: 80px;
+	background: #64DD15;
+	margin-top: 5px;
+	margin-left: 5px;
+	float: right;
+	margin: 5px;
+}
+#footer-three
+{
+	width: 800px;
+ 	height: 200px;
+ 	background: #CD5C5C;
+ 	display:inline-block; 
+ 	margin-top: 20px;
+
+}
+
+.six-seven{
+
+	width: 500px;
+	height: 80px;
+	background: #3615DD;
+	display: block;
+	margin-top: 5px;
+}
+
+.seven-eight
+{
+	width: 500px;
+	height: 80px;
+	background: #15DD70;
+	display: block;
+	margin-top: 5px;
+}
